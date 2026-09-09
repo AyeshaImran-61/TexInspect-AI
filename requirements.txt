@@ -1,0 +1,39 @@
+# ==================================================
+
+# TexInspect AI
+
+# Python Dependencies
+
+# ==================================================
+
+# Web Application
+
+streamlit>=1.40.0
+
+# Computer Vision / AI
+
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+
+pillow>=10.0.0
+opencv-python-headless>=4.8.0
+
+# Data Processing
+
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Data Visualization
+
+plotly>=5.18.0
+
+# Database
+
+sqlalchemy>=2.0.0
+
+# Optional Utilities
+
+python-dateutil>=2.8.0
