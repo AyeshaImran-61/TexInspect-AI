@@ -198,7 +198,7 @@ History        Analytics
 
 The application provides a centralized dashboard for monitoring inspection activity and accessing core quality workflows.
 
-![TexInspect AI Home Dashboard](docs/screenshots/home_dashboard.png)
+![TexInspect AI Home Dashboard](docs/screenshots/home.png)
 
 ---
 
@@ -214,7 +214,7 @@ Users can upload a fabric image and run an AI-powered quality inspection.
 
 The trained YOLO11n model detects textile defects and produces an annotated inspection image.
 
-![AI Inspection Results](docs/screenshots/inspection_results.png)
+![AI Inspection Results](docs/screenshots/results.png)
 
 ---
 
